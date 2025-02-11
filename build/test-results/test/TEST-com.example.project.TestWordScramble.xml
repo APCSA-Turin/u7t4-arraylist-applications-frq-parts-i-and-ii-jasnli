@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestWordScramble" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-07T16:13:21" hostname="codespaces-cc8cd4" time="0.061">
+<testsuite name="com.example.project.TestWordScramble" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-11T14:01:58" hostname="codespaces-b14598" time="0.054">
   <properties/>
-  <testcase name="testScrambleWordPARTA()" classname="com.example.project.TestWordScramble" time="0.038"/>
-  <testcase name="testScrambleOrRemovePARTB()" classname="com.example.project.TestWordScramble" time="0.001"/>
-  <system-out><![CDATA[--------- TEST scrambleOrRemove (part b) ---------
+  <testcase name="testScrambleWordPARTA()" classname="com.example.project.TestWordScramble" time="0.035"/>
+  <testcase name="testScrambleOrRemovePARTB()" classname="com.example.project.TestWordScramble" time="0.017"/>
+  <system-out><![CDATA[0
+TNA
+TNA
+[TNA, ABRACADABRA, WHOA, APPLE, EGGS]
+1
+BARCADABARA
+BRACDABARAA
+[TNA, BARCADABARA, WHOA, APPLE, EGGS]
+2
+WHOA
+WHOA
+[TNA, BARCADABARA, WHOA, APPLE, EGGS]
+2
+PAPLE
+PPALE
+[TNA, BARCADABARA, PAPLE, EGGS]
+3
+EGGS
+EGGS
+[TNA, BARCADABARA, PAPLE, EGGS]
+[TNA, BARCADABARA, PAPLE]
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

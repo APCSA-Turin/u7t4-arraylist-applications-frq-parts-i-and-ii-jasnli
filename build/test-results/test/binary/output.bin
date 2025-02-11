@@ -1,1 +1,21 @@
-3--------- TEST scrambleOrRemove (part b) ---------
+0
+TNA
+TNA
+&[TNA, ABRACADABRA, WHOA, APPLE, EGGS]
+1
+BARCADABARA
+BRACDABARAA
+&[TNA, BARCADABARA, WHOA, APPLE, EGGS]
+2
+WHOA
+WHOA
+&[TNA, BARCADABARA, WHOA, APPLE, EGGS]
+2
+PAPLE
+PPALE
+ [TNA, BARCADABARA, PAPLE, EGGS]
+3
+EGGS
+EGGS
+ [TNA, BARCADABARA, PAPLE, EGGS]
+[TNA, BARCADABARA, PAPLE]
