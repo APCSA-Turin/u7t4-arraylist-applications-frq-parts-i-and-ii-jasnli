@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestWordPair" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-11T14:01:58" hostname="codespaces-b14598" time="0.028">
+<testsuite name="com.example.project.TestWordPair" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-22T20:22:09" hostname="codespaces-b14598" time="0.026">
   <properties/>
-  <testcase name="testPARTA()" classname="com.example.project.TestWordPair" time="0.024"/>
+  <testcase name="testPARTA()" classname="com.example.project.TestWordPair" time="0.022"/>
   <testcase name="testPARTB()" classname="com.example.project.TestWordPair" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
